@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatih KABAKCI</h1>
+<h1 align="center">Merhaba 👋, Ben Fatih KABAKCI</h1>
 <h3 align="center">Bilişim Teknolojileri Öğretmeni - Yazılım Geliştirici</h3>
 
 - 📫 How to reach me **fkabakci@gmail.com**
